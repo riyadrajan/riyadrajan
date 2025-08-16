@@ -15,6 +15,7 @@
 | Hardware Design     | FPGA (Nexys A7), Clocked processes, Testbenches                         |
 | Embedded Systems    | Bare-metal C, PWM, Timers, Interrupts, TWI/I²C, UART, Datasheet-based peripheral coding |
 | Languages           | English (fluent), Spanish (intermediate), French (beginner)             |
+| Lab Tools           | Oscilloscope, Signal Generator, Multimeter, Power Supply, Multi-Function Digital Meter, Variac |
 
 
 ## 🚀 Currently Exploring 
